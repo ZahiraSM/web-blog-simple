@@ -1,14 +1,14 @@
 body {
     font-family: Arial;
     padding: 1rem;
-    color: gray;
+    color: #5e5e5e;
 }
 .link {
     color: red;
     text-decoration: none;
 }
 .header {
-    border-bottom: 1px solid gray;
+    border-bottom: 1px solid #5e5e5e;
 }
 .header__title {
     color: red;
@@ -37,25 +37,25 @@ body {
     font-size: 1.5rem;
 }
 .blog__item {
-    border-bottom: 1px solid gray;
+    border-bottom: 1px solid #5e5e5e;
     padding-block: 1rem;
 }
 .blog__item--remove-line {
     border-bottom: 0;
 }
 .blog__time {
-    color: #a4a4a4;
+    color: #636363;
     font-style: italic;
 }
 .link--title-blog {
     font-weight: bold;
     text-decoration: underline;
-    text-decoration-color: gray;
+    text-decoration-color: #5e5e5e;
 }
 .link--read-more-blog {
     font-style: italic;
     text-decoration: underline;
-    text-decoration-color: gray;
+    text-decoration-color: #5e5e5e;
 }
 .footer {
     padding-block: 1rem;
